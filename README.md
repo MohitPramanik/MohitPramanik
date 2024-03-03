@@ -22,12 +22,6 @@ I firmly believe in the power of collaboration and the strength of community. I'
 
 I'm always up for a good conversation about all things tech! Whether you have questions about my projects, want to discuss the latest developments in the world of software development, or simply want to say hello, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/mohit-kumar-pramanik-498808271/) or drop me an email at [mohitpramanik548@gmail.com](mailto:mohitpramanik548@gmail.com).
 
-## Fun Facts ⚡
-
-- When I'm not coding, you can find me exploring the great outdoors or losing myself in a good book.
-- I'm a firm believer in the motto "work hard, play hard" and strive to maintain a healthy balance between productivity and relaxation.
-- Fun fact: I once built a mini robot from scratch using recycled materials – talk about DIY innovation!
-
 ## Let's Build Something Awesome! 🚀
 
 Together, let's embark on an exciting journey of innovation, creativity, and endless possibilities. Whether we're crafting elegant code, solving complex problems, or pushing the boundaries of technology, let's make a positive impact and leave our mark on the world.
