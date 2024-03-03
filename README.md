@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hey there! I'm Mohit Pramanik, a dedicated student on a mission to carve my path in the world of software development. I believe in the transformative power of technology to shape our future, and I'm excited to be a part of this dynamic field.
+Hey there! I'm Mohit, a dedicated student on a mission to carve my path in the world of software development. I believe in the transformative power of technology to shape our future, and I'm excited to be a part of this dynamic field.
 
 ## About Me 🌟
 
