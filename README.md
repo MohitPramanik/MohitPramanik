@@ -1,27 +1,28 @@
-# Welcome to My GitHub Profile! 👋
+# Hi there, I'm Mohit Pramanik! 👋
 
-Hey there! I'm Mohit, a dedicated student on a mission to carve my path in the world of software development. I believe in the transformative power of technology to shape our future, and I'm excited to be a part of this dynamic field.
-
-## About Me 🌟
-
-As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my skills in software development. My journey began with a curiosity-driven passion for technology, and it has since evolved into a steadfast commitment to mastering the craft of coding. With a keen eye for detail and a knack for problem-solving, I thrive in the fast-paced and ever-evolving landscape of programming.
+### About Me
+As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my skills in software development. My journey began with a curiosity-driven passion for technology, and it has since evolved into a steadfast commitment to mastering the craft of coding. With a keen eye for detail and a knack for problem-solving, I thrive in the fast-paced and ever-evolving landscape of programming
 
 ## Current Projects 🔭
-
 Currently, I'm immersed in a variety of projects that allow me to apply and expand my knowledge. From building web applications to experimenting with data analysis, each project presents a unique opportunity for growth and discovery. I take pride in my work and strive to deliver solutions that are not only functional but also elegant and efficient.
 
-## Learning Journey 🌱
+## Languages and Tools
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/681e8fb354143b94146c460a9dd5233e9eb50fe2b2332b652708f24588e4cab1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e332f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="50" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+## Learning Journey 🌱
 Never one to shy away from a challenge, I'm always seeking to broaden my horizons and push the boundaries of my skills. Whether it's diving into a new programming language, exploring cutting-edge technologies, or delving into the depths of software architecture, I approach each learning opportunity with enthusiasm and determination.
 
 ## Collaboration and Community 👯
-
 I firmly believe in the power of collaboration and the strength of community. I'm eager to connect with like-minded individuals and contribute to open-source projects that make a positive impact on the world. By sharing knowledge, fostering creativity, and supporting one another, we can achieve remarkable things together.
 
-## Let's Connect! 💬
 
-I'm always up for a good conversation about all things tech! Whether you have questions about my projects, want to discuss the latest developments in the world of software development, or simply want to say hello, feel free to reach out. You can find me on [LinkedIn](https://www.linkedin.com/in/mohit-kumar-pramanik-498808271/) or drop me an email at [mohitpramanik548@gmail.com](mailto:mohitpramanik548@gmail.com).
+## GitHub Stats
 
-## Let's Build Something Awesome! 🚀
+<div style="display:flex; flex-wrap:wrap; justify-content:center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpramanik&layout=compact&theme=dark" height="200px"></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mohitpramanik&show_icons=true&theme=dark" height="200px"></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpramanik&theme=dark" height="200px"></p>
+</div>
 
-Together, let's embark on an exciting journey of innovation, creativity, and endless possibilities. Whether we're crafting elegant code, solving complex problems, or pushing the boundaries of technology, let's make a positive impact and leave our mark on the world.
+
+
