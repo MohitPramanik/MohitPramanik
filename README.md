@@ -1,4 +1,4 @@
-# Hi there, I'm Mohit Pramanik! 👋
+# Hi there, I'm Mohit! 👋
 
 ### About Me
 As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my skills in software development. My journey began with a curiosity-driven passion for technology, and it has since evolved into a steadfast commitment to mastering the craft of coding. With a keen eye for detail and a knack for problem-solving, I thrive in the fast-paced and ever-evolving landscape of programming
