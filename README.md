@@ -4,7 +4,12 @@
 As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my skills in software development. My journey began with a curiosity-driven passion for technology, and it has since evolved into a steadfast commitment to mastering the craft of coding. With a keen eye for detail and a knack for problem-solving, I thrive in the fast-paced and ever-evolving landscape of programming
 
 ## Current Projects 🔭
-Currently, I'm immersed in a variety of projects that allow me to apply and expand my knowledge. From building web applications to experimenting with data analysis, each project presents a unique opportunity for growth and discovery. I take pride in my work and strive to deliver solutions that are not only functional but also elegant and efficient.
+- To-do-list Web Application 
+- Working on My Portfolio Website 
+- About to start creating an E-commerce website
+
+(Using React Js in all these)
+
 
 ## Languages and Tools
 <p align="left"> 
@@ -19,6 +24,9 @@ Currently, I'm immersed in a variety of projects that allow me to apply and expa
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/681e8fb354143b94146c460a9dd5233e9eb50fe2b2332b652708f24588e4cab1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e332f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="50" height="40"/> </a> 
+ <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react js"  height="40"/> </a> 
+ <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node js"  height="40"/> </a> 
+ <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark-thumbnail.png" alt="express js"  height="40"/> </a> 
 </p>
 
 ## Learning Journey 🌱
