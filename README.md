@@ -5,8 +5,8 @@ As a student pursuing my BSc. CA degree, I'm constantly exploring and honing my 
 
 ## Current Projects 🔭
 - To-do-list Web Application 
-- Working on My Portfolio Website 
-- About to start creating an E-commerce website
+- My Portfolio Website 
+- About to start creating a Hotel booking web application
 
 (Using React Js in all these)
 
