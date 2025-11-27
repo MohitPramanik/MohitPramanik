@@ -1,7 +1,7 @@
 # 🚀 Mohit Kumar Pramanik: Full-Stack Software Developer
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohitpramanik/" target="_blank">
+  <a href="https://www.linkedin.com/in/mohitkumarpramanik/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:mohitpramanik548@gmail.com" target="_blank">
