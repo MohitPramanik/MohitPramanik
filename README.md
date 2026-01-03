@@ -80,13 +80,13 @@ My expertise covers a versatile set of tools, allowing me to tackle various deve
 This section dynamically reflects my engagement and contributions on GitHub.
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; gap: 20px;">
-  <p align="center">
+  <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitpramanik&layout=compact&theme=dark&langs_count=6&border_radius=10&title_color=94bdeb&icon_color=79ff97&hide_border=true" alt="Mohit's Top Languages" height="180px">
   </p>
   
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=mohitpramanik&show_icons=true&theme=dark&hide_title=true&hide_border=true&rank_icon=github&border_radius=10&title_color=94bdeb&icon_color=79ff97" alt="Mohit's GitHub Stats" height="180px">
-  </p>
+  </p> -->
 
   <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpramanik&theme=dark" alt="GitHub Streak" /></a>
