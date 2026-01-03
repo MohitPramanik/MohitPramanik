@@ -88,6 +88,8 @@ This section dynamically reflects my engagement and contributions on GitHub.
     <img src="https://github-readme-stats.vercel.app/api?username=mohitpramanik&show_icons=true&theme=dark&hide_title=true&hide_border=true&rank_icon=github&border_radius=10&title_color=94bdeb&icon_color=79ff97" alt="Mohit's GitHub Stats" height="180px">
   </p>
 
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohitpramanik&theme=dark" alt="GitHub Streak" /></a>
+
   <!-- <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitpramanik&theme=dark&hide_border=true&border_radius=10&stroke=000000&ring=94bdeb&fire=94bdeb&currstreak=79ff97&sidebtns=79ff97" alt="Mohit's GitHub Streak" height="180px">
   </p> -->
