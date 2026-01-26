@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=80&section=header&fontSize=0" width="100%" />
 
 <!-- Name (HUGE) -->
-<h1 align="center" style="font-size:3em; margin:0.1em 0; font-weight:bold; color: #16b9f9;">
+<h1 align="center" style="font-size:3em; margin:0.1em 0; font-weight:bold; color:#16b9f9;">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="7%"> Mohit Kumar Pramanik
 </h1>
 
