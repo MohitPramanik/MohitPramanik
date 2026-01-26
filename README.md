@@ -72,36 +72,6 @@
   </div>
 </div>
 
-<style>
-.about-container {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-}
-
-.about-image {
-  width: 260px;
-  border-radius: 10px;
-}
-
-.about-text {
-  flex: 1;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 500px) {
-  .about-container {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .about-image {
-    width: 100%;
-    max-width: 100%;
-  }
-}
-</style>
-
 ---
 
 ## 🛠️ Tech Stack
