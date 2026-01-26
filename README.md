@@ -17,7 +17,7 @@
 
 <!-- Animated tagline / tech stack -->
 <p align="center" style="margin-top:0.5em;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" style="max-width:30rem; width:100%;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" style="width:min(30rem, 100%);" />
 </p>
 
 <!-- ===================== -->
