@@ -60,7 +60,7 @@ Currently at **Inadev India**, I work on **enterprise loan repayment platforms**
 
 ---
 
-## 🛠️ Tech Stack (Animated Icons)
+## 🛠️ Tech Stack
 
 ### Frontend
 <p>
