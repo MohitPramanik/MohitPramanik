@@ -6,18 +6,18 @@
 
 <!-- Name (HUGE) -->
 <h1 align="center" style="font-size:3em; margin:0.1em 0; font-weight:bold; color:#16b9f9;">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="7%"> Mohit Kumar Pramanik
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="100%" style="max-width:40px"> Mohit Kumar Pramanik
 </h1>
 
 
 <!-- Title (Full-Stack Developer) -->
-<h2 align="center" style="font-size: 2em; color: #f30000; margin:0.2em 0; font-weight: bold;">
+<h2 align="center" style="font-size:2em; color:#f30000; margin:0.2em 0; font-weight:bold;">
   <i>Full-Stack Software Developer | 1.5+ YOE</i>
 </h2>
 
 <!-- Animated tagline / tech stack -->
 <p align="center" style="margin-top:0.5em;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" style="max-width:40rem; width:100%;" />
 </p>
 
 <!-- ===================== -->
