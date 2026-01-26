@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: mohitpramanik
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8cc665,#44a340,#1e6823&background=transparent
+            dist/github-snake-dark.svg
 
       - name: Deploy snake to output branch
         uses: peaceiris/actions-gh-pages@v3
