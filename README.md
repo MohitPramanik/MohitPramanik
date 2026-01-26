@@ -1,21 +1,24 @@
 <!-- ===================== -->
-<!-- STICKY NAME BANNER -->
+<!-- TOP ANIMATION -->
 <!-- ===================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=80&section=header&fontSize=0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=80&section=header&fontSize=0" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Mohit+Kumar+Pramanik+👋;Software+Developer+%7C+React+%26+TypeScript;Building+Scalable+Web+Apps+%7C+Full-Stack" />
+<!-- Name (HUGE) -->
+<h1 align="center" style="font-size:3em; margin:0.1em 0; font-weight:bold; color: #16b9f9">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="7%"> Mohit Kumar Pramanik
+</h1>
+
+
+<!-- Title (Full-Stack Developer) -->
+<h2 align="center" style="font-size: 2em; color: #f30000; margin:0.2em 0; font-weight: bold;">
+  <i>Full-Stack Software Developer | 1.5+ YOE</i>
+</h2>
+
+<!-- Animated tagline / tech stack -->
+<p align="center" style="margin-top:0.5em;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" />
 </p>
-
-<p align="center">
-  <b>Software Developer | Full-Stack Web | 1.5+ Years of Experience</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,100:7C3AED&height=6&section=header"/>
-</p>
-
 
 <!-- ===================== -->
 <!-- SOCIALS AND RESOURCES -->
@@ -140,6 +143,6 @@ Currently at **Inadev India**, I work on **enterprise loan repayment platforms**
 <!--  -->
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=120&section=footer" width="100%"/>
 
 
