@@ -44,55 +44,6 @@
 
 ---
 
-<!-- ===================== -->
-<!-- TOP ANIMATION -->
-<!-- ===================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:7C3AED&height=80&section=header&fontSize=0" width="100%" />
-
-<!-- Name -->
-<h1 align="center" style="font-size:3em; margin:0.1em 0; font-weight:bold; color:#16b9f9;">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" /> 
-  Mohit Kumar Pramanik
-</h1>
-
-<!-- Title -->
-<h2 align="center" style="font-size:2em; color:#f30000; margin:0.2em 0; font-weight:bold;">
-  <i>Full-Stack Software Developer | 1.5+ YOE</i>
-</h2>
-
-<!-- Animated tagline -->
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=F97316&center=true&vCenter=true&width=900&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java" 
-    style="width:min(30rem, 100%);" 
-  />
-</p>
-
-<!-- ===================== -->
-<!-- SOCIAL LINKS -->
-<!-- ===================== -->
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohitkumarpramanik/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohitpramanik548@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/mohitpramanik">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1N_pSE1DFLd-JE_yF0rDG32lhS1hKuDun/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Download_Resume-14B8A6?style=for-the-badge"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1jK0mI_uNBKvApBuU-vj5-4wrOJGdlJNY/view">
-    <img src="https://img.shields.io/badge/View_Certification-F59E0B?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 <div class="about-container">
