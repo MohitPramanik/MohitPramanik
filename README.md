@@ -47,8 +47,8 @@
 ## 👨‍💻 About Me
 
 <div>
-  <div style="display:flex; justify-content:center; align-items:center; margin-bottom:10px;">
-    <img 
+  <div align="center">
+    <img
       src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
       style="width:100%; max-width: 400px;"
       alt="Animated coding banner"
