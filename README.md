@@ -133,7 +133,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/mohitpramanik/mohitpramanik/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/MohitPramanik/MohitPramanik/2dc7f1be4134eaa53e5223042d2633110e999e01/github-snake-dark.svg)
 
 ---
 
