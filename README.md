@@ -133,7 +133,9 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake animation](https://raw.githubusercontent.com/MohitPramanik/MohitPramanik/2dc7f1be4134eaa53e5223042d2633110e999e01/github-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MohitPramanik/MohitPramanik/2dc7f1be4134eaa53e5223042d2633110e999e01/github-snake-dark.svg"
+</p>
 
 ---
 
