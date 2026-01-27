@@ -150,6 +150,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00E5FF&height=120&section=footer" width="100%" />
----
+
 
 
