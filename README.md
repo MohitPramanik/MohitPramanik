@@ -37,7 +37,7 @@
   <a href="https://github.com/mohitpramanik">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1iSw9-bcs8PP9Lq1y7h8PItC4bGG3jE4C/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/18QxHUmLbrweqDb-Plff8Ws8HVvFCtpKQ/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-14B8A6?style=for-the-badge&logo=adobe&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1jK0mI_uNBKvApBuU-vj5-4wrOJGdlJNY/view" target="_blank">
