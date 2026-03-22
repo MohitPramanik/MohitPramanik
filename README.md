@@ -61,7 +61,7 @@
   <div class="about-text">
     <p>
       I am <b>Mohit Kumar Pramanik</b>, a <b>Software Developer with 1.5+ years of professional experience</b> building 
-      <b>scalable full-stack applications</b> using <b>React, TypeScript, Node.js, and modern JavaScript</b>.
+      <b>scalable full-stack applications</b> using <b>React, TypeScript, Angular, Next.js, MERN Stack, and modern JavaScript</b>.
     </p>
     <p>
       Currently at <b>Inadev India</b>, I work on <b>enterprise loan repayment platforms</b> where performance,
