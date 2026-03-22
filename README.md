@@ -37,7 +37,7 @@
   <a href="https://github.com/mohitpramanik">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/18QxHUmLbrweqDb-Plff8Ws8HVvFCtpKQ/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1hYRCAc-Fmluu1D-WNhNCxlE1Rk1GxzMx/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download_Resume-14B8A6?style=for-the-badge&logo=adobe&logoColor=white"/>
   </a>
   <a href="https://drive.google.com/file/d/1jK0mI_uNBKvApBuU-vj5-4wrOJGdlJNY/view" target="_blank">
@@ -82,7 +82,7 @@
 ## 🛠️ Tech Stack
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,sass,nextjs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=angular,react,ts,nextjs,js,html,css,tailwind,bootstrap,sass&theme=dark" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
@@ -94,30 +94,49 @@
 
 ## 💼 Experience
 
-### 🏢 Inadev India — Associate Product Configurator
-- Built production-grade React + TypeScript features  
-- Improved workflow efficiency by **30%**  
-- Reduced future development effort by **25%**  
-- Optimized page load performance (**35% faster**)  
-- Reduced post-release defects by **30%**
+### 🏢 Inadev India Pvt. Ltd. — Frontend Developer  
+📍 Kolkata | Dec 2024 – Feb 2026  
 
-### 🏢 Code Nimbus Solutions — Frontend Developer Intern
-- Developed **7+ reusable React components**  
-- Ensured responsive, cross-browser compatibility  
-- Reduced UI issues by **40%**  
-- Reduced QA defects by **30%**
+**Project: Commonwealth Management Portal**
+
+- Owned **3 core frontend modules**, handling feature development and production issues  
+- Improved initial load time by **~1.8s** and page reload speed by **~30%**  
+- Built **20+ reusable UI components**, reducing code duplication by **~30%**  
+- Delivered **25+ business requirements** in Agile sprints with cross-team collaboration  
 
 ---
 
-## 🚀 Featured Project
+### 🏢 Code Nimbus Solutions — Frontend Developer Intern  
+📍 Bangalore | June 2024 – Nov 2024  
 
-### Full-Stack Blog Platform  
-🔗 https://bloghub-fe.onrender.com
+**Project: Invitation Template Platform**
 
-- JWT authentication & role-based access  
-- Full CRUD for posts and comments  
-- **35% faster frontend load time**  
-- Mobile-first responsive UI
+- Built platform supporting **10+ customizable templates with live preview**  
+- Developed **15+ reusable React components**, improving efficiency by **~25%**  
+- Integrated **17+ REST APIs** for dynamic content rendering  
+- Fixed **20+ UI & cross-browser issues**, improving stability  
+
+---
+
+## 🚀 Projects
+
+### 🔗 Full Stack Blog Platform  
+https://bloghub-fe.onrender.com  
+
+- Built full-stack app supporting **50+ blog posts**  
+- Developed **26+ REST APIs** with secure data flow  
+- Implemented **JWT authentication & protected routes**  
+- Improved performance by **~25% using lazy loading & memoization**  
+
+---
+
+### 🔗 HR Management Portal  
+https://hr-managment-portal.onrender.com  
+
+- Developed HR system with **RBAC (5 roles) across 12+ routes**  
+- Built **12+ feature modules** (payroll, attendance, recruitment, etc.)  
+- Implemented **route guards & scalable architecture**  
+- Created **15+ reusable components** with responsive design  
 
 ---
 
