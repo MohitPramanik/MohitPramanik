@@ -18,7 +18,7 @@
 <!-- Animated tagline / tech stack -->
 <p align="center" style="margin-top:0.5em;">
  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=F97316&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Apps;MERN+Stack+%7C+TypeScript+%7C+Java"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=800&color=F97316&center=true&vCenter=true&width=450&lines=Building+Scalable+Web+Apps;Angular+%7C+React.js+%7C+Node.js"
     alt="Typing animation"
   />
 </p>
